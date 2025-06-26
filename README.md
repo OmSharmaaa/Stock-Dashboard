@@ -32,4 +32,4 @@ An interactive financial dashboard built using Streamlit that allows users to an
 git clone https://github.com/yourusername/StockDashboard.git
 cd StockDashboard
 pip install -r requirements.txt
-streamlit run StockDashboard.py
+streamlit run app.py
