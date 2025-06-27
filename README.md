@@ -18,7 +18,7 @@ An interactive financial dashboard built using Streamlit that allows users to an
   - Smart error handling for rate limits
 - 📰 **News Sentiment**
   - Top 10 recent news headlines with sentiment scores
-- ✅ Default ticker (`GOOGL`) and 1-year range preloaded
+- ✅ Default ticker FORD (`F`) and 1-year range preloaded
 - 📤 Exportable pricing data with Streamlit UI
 
 ## 📦 Tech Stack
